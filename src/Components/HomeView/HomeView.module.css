@@ -5,10 +5,12 @@
 .homeView__title {
   font-size: 30px;
   margin-bottom: 30px;
+  text-align: center;
 }
 
-/* .homeView__list {
-} */
+.homeView__list {
+  text-align: center;
+}
 
 .homeView__item {
   list-style: none;
