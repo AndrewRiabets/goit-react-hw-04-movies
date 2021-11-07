@@ -1,0 +1,7 @@
+.reviewsSt {
+  padding: 0 20px;
+}
+.reviewsSt__item {
+  list-style: none;
+  border-bottom: 1px solid grey;
+}

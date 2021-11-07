@@ -1,0 +1,15 @@
+.castSt {
+  padding-left: 20px;
+}
+.castSt__txt {
+  margin-bottom: 5px;
+}
+.castSt__img {
+  margin-bottom: 5px;
+}
+.castSt__item {
+  width: 20%;
+  list-style: none;
+  margin-bottom: 10px;
+  border-bottom: 1px solid grey;
+}

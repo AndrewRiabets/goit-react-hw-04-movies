@@ -1,0 +1,25 @@
+.homeView {
+  padding: 30px 50px;
+}
+
+.homeView__title {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+/* .homeView__list {
+} */
+
+.homeView__item {
+  list-style: none;
+
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+.homeView__link {
+  color: black;
+  text-decoration: none;
+}
+.homeView__link:hover {
+  color: rgb(16, 238, 64);
+}

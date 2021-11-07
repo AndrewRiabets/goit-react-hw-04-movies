@@ -1,0 +1,58 @@
+.moviesPage {
+  /* background-color: rgb(223, 235, 231); */
+  padding: 20px;
+}
+.form {
+  display: flex;
+}
+.btn {
+  width: 150px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  cursor: pointer;
+  box-shadow: 0px 1px 1px rgba(59, 21, 58, 0.12),
+    0px 4px 4px rgba(54, 7, 56, 0.06), 1px 4px 6px rgba(61, 10, 23, 0.397);
+}
+.btn:hover {
+  border: 1px solid rgba(143, 57, 97, 0.918);
+  background-color: rgb(243, 220, 231);
+}
+.input {
+  padding: 5px 10px;
+  width: 300px;
+  height: 30px;
+  margin-right: 10px;
+  border: 1px solid grey;
+  border-radius: 3px;
+
+  box-shadow: 0px 1px 1px rgba(59, 21, 58, 0.12),
+    0px 4px 4px rgba(54, 7, 56, 0.06), 1px 4px 6px rgba(61, 10, 23, 0.397);
+}
+.input:focus,
+.input:hover {
+  border: 1px solid rgb(228, 98, 178);
+  outline: 1px solid grey;
+}
+
+.moviesBox {
+  padding: 20px;
+}
+/* .moviesSt {
+} */
+.moviesST__item {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+.moviesSt__link {
+  text-decoration: none;
+  color: black;
+}
+.moviesSt__link:hover {
+  color: rgb(238, 16, 182);
+}
